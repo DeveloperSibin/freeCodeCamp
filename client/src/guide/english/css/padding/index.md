@@ -35,6 +35,15 @@ padding: 1em 2em 2em;
 padding: 5px 1em 0 1em;
 ```
 
+## Individual padding
+At times it is better to use individual padding syntax. But mostly it is not used.
+````
+padding-top: 10px;
+padding-right: 20px;
+padding-bottom: 12px;
+padding-left: 1em;
+````
+
 ## Where in box model
 The padding property in CSS defines the innermost portion of the box model, creating space around an element's content, inside of any defined margins and/or borders.
 
